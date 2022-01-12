@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.iobj
+*.ipdb
+*.recipe
+*.idb
+*.vcxproj.*
