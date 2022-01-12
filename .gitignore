@@ -40,3 +40,4 @@
 *.recipe
 *.idb
 *.vcxproj.*
+*.vs
